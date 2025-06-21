@@ -51,5 +51,3 @@ Develop a classification model using machine learning to predict whether a given
 - The project confirms the **feasibility of using ML for currency authentication** based on statistical image features.
 
 ---
-
-## 📂 Folder Structure (suggested)
